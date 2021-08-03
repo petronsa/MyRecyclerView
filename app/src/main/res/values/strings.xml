@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="portada_libro">Portada libro</string>
+</resources>
